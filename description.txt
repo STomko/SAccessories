@@ -1,0 +1,23 @@
+Adds a selection of new accessories to Terraria.
+
+Summoning Charm - Grants +2 additional summons.
+
+Micro Adrenaline - When the player is below 25% health,all minions have increased damage as the player takes damage.
+
+Bewitched SummoningCharm - Grants +10 additional summons.
+
+Summoners Blessing - Grants +10 additional summons. When the player is below 25% health, all minions have increased damage as the player takes damage.
+
+Pulse Shield - When the player takes damage, release a pulse that damages nearby enemies.
+
+Upgraded Pulse Shield - When the player takes damage, release three pulses that damage nearby enemies.
+
+Liquid Cooled Pulse Shield - When the player takes damage, release three pulses that damage nearby enemies. Pulses have a chance to grant debuffs.
+
+Quantum Pulse Shield - When the player takes damage, release four pulses that damage nearby enemies. Pulses have a high chance to grant debuffs.
+
+Vampiric Blessing - Damage dealt to enemies has a chance of healing the player for 10% of damage dealt.
+
+Trigger Finger - When the player takes damage, increase fire rate of bows and firearms for a short time.
+
+Dead Hand - Increased fire rate of bows and firearms. When the player takes damage, increase fire rate further.
