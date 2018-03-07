@@ -124,8 +124,8 @@ namespace SAccessories
 				float projectilespeedX = 0f;
 				float projectilespeedY = 0f;
 				float projectileKnockback = 4f;
-				int minDamage = 20;			
-				int maxDamage = 40;			
+				int minDamage = 15;			
+				int maxDamage = 30;			
 				int projectileDamage = ModProjectileEffects.randDamage(minDamage, maxDamage);
 				
 				//First Ring (Centre)
@@ -162,8 +162,8 @@ namespace SAccessories
 				float projectilespeedX = 0f;
 				float projectilespeedY = 0f;
 				float projectileKnockback = 4f;
-				int minDamage = 35;			
-				int maxDamage = 55;			
+				int minDamage = 20;			
+				int maxDamage = 35;			
 				int projectileDamage = ModProjectileEffects.randDamage(minDamage, maxDamage);
 				
 				//First Ring (Centre)
